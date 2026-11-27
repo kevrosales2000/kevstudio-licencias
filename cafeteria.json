@@ -1,4 +1,4 @@
 {
-  "datos": "{\"app\":\"cafeteria\",\"emitido\":\"2026-11-27T16:55:19.092Z\",\"licencias\":{\"176e0de8\":{\"exp\":\"never\",\"estado\":\"activa\"}}}",
-  "firma": "ljG5Tu1GHrxzj35g35J61RotCj1KTbxNEDy8Lnes4ljLAkv5cRr6/qiw9JD8Q+AY0EyYMVxyqals73vpDoUBBA=="
+  "datos": "{\"app\":\"cafeteria\",\"emitido\":\"2026-11-27T16:55:21.079Z\",\"licencias\":{\"176e0de8\":{\"exp\":\"never\",\"estado\":\"activa\"},\"ba8e223b\":{\"exp\":\"2026-12-09\",\"estado\":\"activa\"}}}",
+  "firma": "PszZ/692hlKq+8EyCNLIjS2aqRyZw+IwuE9Uh+3o7Vrk4hNysJONzxyD3SS9mkkOkUyx2ALpVG7Bmvs/O8fACg=="
 }
